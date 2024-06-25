@@ -56,7 +56,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "catdogstationary/blog-comments",
+      repo: "/catdogstationary",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
